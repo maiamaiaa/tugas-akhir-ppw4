@@ -218,5 +218,10 @@ if (isset($_GET['clear'])) {
             <?php endif; ?>
         </div>
     </div>
+    
+  <footer class="footer">
+    © <?= date('Y') ?> Sistem Manajemen Kontak — Eugenia Grasela Maia
+</footer>
 </body>
 </html>
+

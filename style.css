@@ -195,3 +195,17 @@ input:focus, textarea:focus {
     text-align: center;
     margin-top: 20px;
 }
+/* Footer */
+.footer {
+    margin-top: 40px;
+    background: #2e7d32;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+}
+
+
